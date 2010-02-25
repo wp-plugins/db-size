@@ -15,7 +15,7 @@ Database size appears in green if under 4 MBytes by default, else in red if over
 
 == Installation ==
 
- - Download db_size.zip here : http://rabiet.fr/wp-plugins/db_size
+ - Download db_size.zip here : http://wordpress.org/extend/plugins/db-size/
  - Unzip and copy to your wordpress plugins folder, then activate. 
  - Adjust the Alert Level to your convenience by editing line 20 in db_size.php.
    (Modify in the extensions manager)
