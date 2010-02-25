@@ -6,7 +6,7 @@
  */
 /*
 Plugin Name: DB Size
-Plugin URI: http://rabiet.fr/wp-plugins/db_size
+Plugin URI: http://wordpress.org/extend/plugins/db-size/
 Description: This simple plugin just shows your DataBase size under the header of the admin control panel.
 Author: Chris Rabiet
 Version: 1.0
